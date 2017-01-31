@@ -1,13 +1,4 @@
-/*
-*********************************
-* Operating Systems Project 4   *
-* Due Date: Thursday December 3 *
-*                               *
-* Author: Stephen Smart         *
-* ID: 113851356                 *
-*********************************
-*/
-
+// === INCLUDES ===
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
